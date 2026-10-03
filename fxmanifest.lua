@@ -6,7 +6,7 @@ use_fxv2_oal 'yes'
 name 'Project07_VVehicleSounds'
 author 'Pehesara'
 description 'Project07 Vanilla Vehicle Sounds - A simple vehicle engine sound replacer for FiveM'
-version '0.1.0'
+version '0.1.1'
 
 shared_script {
     'config.lua'
